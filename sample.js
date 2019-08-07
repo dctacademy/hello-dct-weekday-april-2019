@@ -1,7 +1,5 @@
-function add(a, b){
-    return a + b;
-}
+const name = "raj"
 
-function sub(a, b){
-    return a - b;
-}
+let age = 25
+
+console.log(name + age)
