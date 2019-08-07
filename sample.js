@@ -1,7 +1,4 @@
-function add(a, b){
-    return a + b;
-}
+let a = [0,1,0,0,1,1]
 
-function sub(a, b){
-    return a - b;
-}
+let b = a.push(5)
+
